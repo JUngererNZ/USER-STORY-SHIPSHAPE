@@ -68,3 +68,8 @@ Example 3: An e-commerce shopper
 Now that you know what a user story example looks like, you can get to work creating one.
 
 -----------
+
+Paste into Chat-sessions to surface a proper engaging email to managing director and operations manager.
+
+help me create a user story, where I can send onto managing director and operations manager, seeking permission to proceed with the tasks
+
